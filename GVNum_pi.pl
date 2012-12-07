@@ -6,7 +6,6 @@ use WWW::Mechanize;
 use HTML::TreeBuilder::XPath;
 use Date::Parse;
 use Date::Format;
-use Data::Dumper;
 use URI::Escape;
 use JSON;
 
