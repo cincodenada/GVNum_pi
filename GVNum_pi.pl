@@ -1,11 +1,7 @@
 #!/usr/local/bin/perl
 use strict;
 use warnings;
-use LWP::Simple;
 use WWW::Mechanize;
-use HTML::TreeBuilder::XPath;
-use Date::Parse;
-use Date::Format;
 use URI::Escape;
 use JSON;
 
